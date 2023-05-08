@@ -1,0 +1,52 @@
+body {
+    background-color: rgb(255, 255, 255);
+  }
+
+
+.preview{
+    position:relative;
+    
+    margin-left: 100px;
+    margin-top: 25px;
+    border:1px solid #afafaf;
+    border-radius: 5px;
+    
+    height: 300px;
+    width: 500px;
+    overflow: hidden ;
+    object-fit: contain
+}
+.imageclass{
+    height: 300px;
+    width: 500px;
+    position: relative;
+    align-items: center;
+
+}
+
+.container{
+
+    position:relative;
+    margin-left: 20px;
+    margin-top: 30px;
+
+}
+
+.metaUpload{
+
+    position:relative;
+    margin-top: 30px;
+
+}
+
+.metauploadbutton{
+
+    position:relative;
+    margin-top: 20px;
+
+}
+
+.imageuploadbutton{
+    position:relative;
+    margin-top: 20px;
+}
